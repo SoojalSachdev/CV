@@ -149,7 +149,7 @@ def display_resume_sections():
     st.header("Education")
     st.write("*Bachelor of Computer Science*")
     st.write("DHA Suffa University – 2022 - 2026")
-    st.write("Completed 4th semesters")
+    st.write("Completed 4 semesters")
 
     add_line_break()
     st.header("Programming Proficiency")
